@@ -58,4 +58,3 @@ python motion_tracker.py --model yolo --confidence 0.5
 ## 📄 License
 
 The Real-Time Human Motion Tracker is open-source software under the [MIT License](LICENSE).
-```
